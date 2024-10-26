@@ -1,1 +1,1 @@
-IBM Welcome page created by mertfurkandgn
+READ ME FİLE = IBM Welcome page created by mertfurkandgn
